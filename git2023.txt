@@ -1,0 +1,3 @@
+nombre: denim
+edad:26
+gi
